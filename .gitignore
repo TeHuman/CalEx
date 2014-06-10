@@ -1,3 +1,4 @@
 tempfile.txt
 *.tmp
 foo*
+userassets/*.png
